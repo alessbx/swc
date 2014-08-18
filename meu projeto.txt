@@ -2,8 +2,8 @@
 Wikiversidade; Wikimedia projects as plataforms for Open Science; Pesquisa visual
 2. ok
 3. Pretendo participar dos três dias de Seminário 
-<<<<<<< HEAD
-- 
-=======
+
 - alterando  wikipesquisa
+
+Alteração de Tiago Braga (2014.08.18)
 
